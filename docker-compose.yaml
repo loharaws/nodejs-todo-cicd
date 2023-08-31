@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "yashwantlohar/nodejs-app"
+    image: "yashwantlohar/mynode-js"
     ports:
       - "8000:8000"
